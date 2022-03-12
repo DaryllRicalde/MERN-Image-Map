@@ -1,4 +1,4 @@
-# MERN Money Manager
+# MERN Image Map
 
 ## Client
 To start the client REACT application, make sure you are in the client directory. Otherwise,
